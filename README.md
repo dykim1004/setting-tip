@@ -24,5 +24,5 @@ log4jdbc-remix 사용
 </plugin>
 
 # web app Libraries 경로 인식이 안될때
-\workspace\.settings\org.eclipse.wst.common.component 파일안에  
+\workspace\ .settings\org.eclipse.wst.common.component 파일안에  
 source-path 확인
