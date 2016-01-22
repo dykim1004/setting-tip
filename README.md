@@ -22,3 +22,7 @@ log4jdbc-remix 사용
 		<uriEncoding>UTF-8</uriEncoding>
 	</configuration>
 </plugin>
+
+# web app Libraries 경로 인식이 안될때
+\workspace\.settings\org.eclipse.wst.common.component 
+source-path 확인
